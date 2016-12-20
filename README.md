@@ -14,3 +14,6 @@ Go to the downlded (after clone from git) directory and run
 
 This executes all tests under the current directory. This assumes robot
 framework is already installed.
+
+If you want to do the test in Docker container, check
+https://github.com/shohel02/robot-quickstart-refactor-docker
