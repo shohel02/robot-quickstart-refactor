@@ -9,6 +9,7 @@ in a .rst file.
 How To Execute:
 ---------------
 Go to the downlded (after clone from git) directory and run
+
        > robot  .
 
 This executes all tests under the current directory. This assumes robot
